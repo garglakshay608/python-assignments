@@ -6,7 +6,7 @@ str1=("Python is a case sensative language")
 print(len(str1))
 print(str1[::-1])
 print(str1[10::])
-print(str1.replace("case sensative,", "object oriented"))
+print(str1.replace("case sensative", "object oriented"))
 print(str1.find('a'))
 print(str1.replace(" ",""))
 #-------------------------------#
